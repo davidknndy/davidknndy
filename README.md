@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello there 👋 I'm David!
 
-<!--
-**davidknndy/davidknndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Support Analyst by day ☀️ and an AI Engineer & Software Developer enthusiast by night 🌙**
 
-Here are some ideas to get you started:
+Passionate about technology, artificial intelligence, automation, and building solutions to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Working with **SAP PM/MM and enterprise applications**
+- 🤖 Building **AI-powered tools and automations**
+- 📱 Developing **Android applications and web applications**
+- ⚙️ I work with: `Python`, `Flutter`, `SQL`, `Firebase`, `REST APIs`
+- 🧠 Currently exploring **AI Agents, LLMs and intelligent workflows**
+- 🚀 Always building something new
+- 💬 Ask me about **Automation, AI, SAP, APIs and App Development**
+
+---
+
+### 🌐 Find me online
+
+[My Portfolio](https://davidknndy.github.io/) | [GitHub](https://github.com/davidknndy)
