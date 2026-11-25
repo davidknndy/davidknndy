@@ -14,7 +14,6 @@ Passionate about technology, artificial intelligence, automation, and building s
 
 ---
 ## 🌐 Schedule a time with me
-
 Feel free to schedule a time with me in [Calendly](https://calendly.com/davidkndy/30min).
 
 ---
