@@ -25,7 +25,7 @@ I enjoy exploring new technologies, solving complex problems, and building appli
 
 Interested in collaborating, discussing technology, exploring new opportunities, or simply exchanging ideas?
 
-📅 [Schedule a conversation with me](https://calendly.com/davidkndy/30min) | [LinkedIn](https://www.linkedin.com/in/david-kennedy-132909a0/)
+📅 [Schedule a conversation with me](https://calendly.com/davidkndy/30min) | [LinkedIn](https://www.linkedin.com/in/davidknndy/)
 
 ---
 
