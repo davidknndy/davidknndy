@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm David!
 
-**Senior Applications Support Specialist by day ☀️ and an AI Engineer & Software Developer enthusiast by night 🌙**
+**Senior Support Analyst by day ☀️ and an AI Engineer & Software Developer enthusiast by night 🌙**
 
 Passionate about technology, artificial intelligence, automation, and building solutions to real-world problems.
 
@@ -13,7 +13,12 @@ Passionate about technology, artificial intelligence, automation, and building s
 - 💬 Ask me about **Automation, AI, SAP, APIs and App Development**
 
 ---
+## 🌐 Schedule a time with me
+
+Feel free to schedule a time with me in [Calendly](https://calendly.com/davidkndy/30min).
+
+---
 
 ### 🌐 Find me online
 
-[My Portfolio](https://davidknndy.github.io/) | [GitHub](https://github.com/davidknndy) | [LinkedIn](https://www.linkedin.com/in/david-kennedy-132909a0/) 
+[My Portfolio](https://davidknndy.github.io/) | [GitHub](https://github.com/davidknndy)
