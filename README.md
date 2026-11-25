@@ -1,23 +1,36 @@
-### Hello there 👋 I'm David!
+# Hi there, I'm David! 👋
 
-**Senior Support Analyst by day ☀️ and an AI Engineer & Software Developer enthusiast by night 🌙**
+**Senior Applications Support Specialist by day ☀️ | AI & Software Development enthusiast by night 🌙**
 
-Passionate about technology, artificial intelligence, automation, and building solutions to real-world problems.
+I'm passionate about transforming ideas into real-world solutions through artificial intelligence, software development, and intelligent automation.
 
-- 💼 Working with **SAP PM/MM and enterprise applications**
-- 🤖 Building **AI-powered tools and automations**
-- 📱 Developing **Android applications and web applications**
-- ⚙️ I work with: `Python`, `Flutter`, `SQL`, `Firebase`, `REST APIs`
-- 🧠 Currently exploring **AI Agents, LLMs and intelligent workflows**
-- 🚀 Always building something new
-- 💬 Ask me about **Automation, AI, SAP, APIs and App Development**
+I enjoy exploring new technologies, solving complex problems, and building applications that make everyday life easier.
+
+### 🚀 What I do
+
+- 💼 Support enterprise applications integrated with **SAP PM/MM**
+- 🤖 Build **AI-powered solutions and intelligent automations**
+- 📱 Develop **mobile and web applications**
+- 🔗 Integrate systems through **APIs and automated workflows**
+- 🧠 Explore **AI Agents, LLMs and AI Engineering**
+- 💡 Turn ideas into functional digital products
+
+### 🛠️ Technologies & Tools
+
+`Python` `Flutter` `Dart` `SQL` `PostgreSQL` `Firebase` `REST APIs` `Git` `Jira` `New Relic`
 
 ---
-## 🌐 Schedule a time with me
-Feel free to schedule a time with me in [Calendly](https://calendly.com/davidkndy/30min).
+
+### ☕ Let's connect!
+
+Interested in collaborating, discussing technology, exploring new opportunities, or simply exchanging ideas?
+
+📅 [Schedule a conversation with me](https://calendly.com/davidkndy/30min)
 
 ---
 
-### 🌐 Find me online
+### 🌐 Explore my work
 
-[My Portfolio](https://davidknndy.github.io/) | [GitHub](https://github.com/davidknndy)
+[Personal Portfolio](https://davidknndy.github.io/) | [GitHub](https://github.com/davidknndy)
+
+*Always learning. Always building. Always evolving.*
